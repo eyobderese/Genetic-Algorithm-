@@ -1,7 +1,7 @@
 
 # Example usage of the GeneticAlgorithm class with JobShopProblem
 from genetic_algorithm import GeneticAlgorithm
-from job_shop_schedu_genetic import JobShopProblem
+from job_shop_scheduling.job_shop_schedu_genetic import JobShopProblem
 
 # Sample Job-Shop problem where each job has tasks assigned to specific machines with specific processing times
 

@@ -1,6 +1,6 @@
 # Number of queens
 from genetic_algorithm import GeneticAlgorithm
-from n_queens_genetic import NQueens
+from n_queens.n_queens_genetic import NQueens
 
 
 n = 8
