@@ -15,21 +15,24 @@ This repository contains implementations of various optimization problems using 
 week4-task/
 │
 ├── travers-selse-man/
-│   ├── main.py
+│   ├── TSM_example.py
 │   ├── traverse_selse-genetic.py
 │   └── traverse_selse_DP.py
 │
 ├── job-shop-schedule/
-│   ├── main.py
+│   ├── JSS_Example.py
 │   └── job_shop_genetic.py
 │
 │
 ├── n-queens/
-|    ├── main.py
+|    ├── N_queens_Example.py
 |    ├── n_queens_genetic.py
 |    └── n_queens_backtrac.py
 |
 ├──genetic_algorithm.py
+├──main.py
+└──README.md
+
 ```
 
 ## Problem Descriptions
@@ -48,8 +51,10 @@ The N-Queens problem is a classic puzzle where the goal is to place N queens on 
 
 ## How to Run
 
-1. Navigate to the desired folder.
-2. Run the `main.py` file to see an example of how to use the genetic algorithm for that specific problem. You can modify the parameters within the `main.py` file to experiment with different settings.
+1. Navigate to Genetic Algorithm folder
+2. run main.py file which is an entery point for algorithms
+
+`Uncomment the problem you want to run in the main.py file`
 
 ## Requirements
 
